@@ -21,6 +21,14 @@
   margin-top: 8px;
   font-size: 17px;
   color: rgba(0, 0, 0, 0.5);
+  position: relative;
+}
+.user-component__subtitle i {
+  color: tomato;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  margin-left: 4px;
 }
 
 .user-component__avatar {
